@@ -216,12 +216,3 @@ This project helped strengthen practical skills in:
 **Lajja Gajjar**
 
 Data Visualization Enthusiast
-
-### Connect with me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
